@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|solutionrelative:2d_golf_game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|solutionrelative:2d_golf_game\\mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\barrier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|solutionrelative:2d_golf_game\\barrier.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\hole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|solutionrelative:2d_golf_game\\hole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|solutionrelative:2d_golf_game\\ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6A82753D-2824-4D43-9DF5-5B9AA35F2967}|2d_golf_game\\2d_golf_game.vcxproj|solutionrelative:2d_golf_game\\physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\main.cpp",
+              "RelativeDocumentMoniker": "2d_golf_game\\main.cpp",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\main.cpp",
+              "RelativeToolTip": "2d_golf_game\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T15:25:57.965Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "physics.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\physics.cpp",
+              "RelativeDocumentMoniker": "2d_golf_game\\physics.cpp",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\physics.cpp",
+              "RelativeToolTip": "2d_golf_game\\physics.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-09T12:15:48.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ball.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\ball.cpp",
+              "RelativeDocumentMoniker": "2d_golf_game\\ball.cpp",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\ball.cpp",
+              "RelativeToolTip": "2d_golf_game\\ball.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T18:19:18.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hole.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\hole.cpp",
+              "RelativeDocumentMoniker": "2d_golf_game\\hole.cpp",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\hole.cpp",
+              "RelativeToolTip": "2d_golf_game\\hole.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T18:19:31.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "barrier.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\barrier.cpp",
+              "RelativeDocumentMoniker": "2d_golf_game\\barrier.cpp",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\barrier.cpp",
+              "RelativeToolTip": "2d_golf_game\\barrier.cpp",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwCMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-24T18:19:50.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mouse.cpp",
+              "DocumentMoniker": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\mouse.cpp",
+              "RelativeDocumentMoniker": "2d_golf_game\\mouse.cpp",
+              "ToolTip": "C:\\Users\\mehme\\OneDrive\\Masa\u00FCst\u00FC\\C\u002B\u002B uygulama\\2d_golf_game\\2d_golf_game\\mouse.cpp",
+              "RelativeToolTip": "2d_golf_game\\mouse.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-01T13:54:24.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
